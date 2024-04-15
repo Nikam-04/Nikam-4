@@ -14,6 +14,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nikam-04&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&type=png" alt="GitHub Streak" /></a>
 ---
 
 ### :woman_technologist: About Me :
@@ -23,3 +24,4 @@ I am a Full Stack Developer from India.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
+  
