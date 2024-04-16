@@ -22,5 +22,5 @@ I am a Full Stack Developer .
 - :seedling: Exploring Technical Content Writing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (shreyanikam957@gmail.com) 
+- (shreyanikam957@gmail.com) 
   
