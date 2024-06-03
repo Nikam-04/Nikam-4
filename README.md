@@ -23,6 +23,6 @@
 I am a Full Stack Developer .
 - :seedling: Exploring Technical Content Writing.
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-nikam-4a845b24a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - :email: shreyanikam957@gmail.com 
   
